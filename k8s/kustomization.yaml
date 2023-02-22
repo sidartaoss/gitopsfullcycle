@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: sidartasilva/gitopsfullcycle
-  newTag: ed8f27784de05707346dced5995e9f1ba4d7c532
+  newTag: c798203be8c37d7530c3a1d99fa4e9049c8b054b
